@@ -1,0 +1,20 @@
+# Python / Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large dataset files (uncomment if you do not want to track dataset in git)
+# OnlineRetail.xlsx
